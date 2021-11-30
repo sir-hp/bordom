@@ -1,0 +1,25 @@
+.typeList {
+    width: 50%;
+    background-color: #FFF;
+    text-align: center;
+    border-right: #FFF solid 5px;
+    padding: 1em 0;
+    
+    
+}
+.typeList:hover {
+    border-right: #333 solid 5px;
+}
+
+.types{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    list-style-type: none;
+}
+
+.text{
+    font-size: 2em;
+
+}
